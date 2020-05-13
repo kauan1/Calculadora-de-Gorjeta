@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora de Gorjeta</string>
+    <string name="decricao">Logo</string>
+    <string name="decricaoHint">Digite um valor da conta ex:30.00</string>
+    <string name="textPorcentagem" >0%</string>
+    <string name="textValor">Gorjeta</string>
+    <string name="textTotal">Total</string>
+    <string name="textValorInicial">R$0.00</string>
+</resources>
